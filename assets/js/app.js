@@ -11,10 +11,7 @@ function addRow() {
     var myName = document.getElementById("name");
     var age = document.getElementById("age");
     var table = document.getElementById("myTableData");
-    var d = new Date();
-    d.getHours();
-    d.getMinutes();
-    d.getSeconds();
+    var d  = new Date(new Date().getTime()).toLocaleString();
 
     var rowCount = table.rows.length;
     var row = table.insertRow(rowCount);
