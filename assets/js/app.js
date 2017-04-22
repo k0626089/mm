@@ -25,6 +25,9 @@ function addRow() {
     var cell_3 = row.insertCell(2)
     cell_3.innerHTML= age.value;
     cell_3.style.height="50px";
+    var cell_4 = row.insertCell(3)
+    cell_4.innerHTML= "2017.4.22";
+    cell_4.style.height="50px";
 
     document.getElementById('name').value = "";
     document.getElementById('age').value = "";
