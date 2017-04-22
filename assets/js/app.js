@@ -1,3 +1,5 @@
+import sqlite3
+
 function addRow() {
     if(document.getElementById("name").value == '' || document.getElementById("name").value == undefined) {
       alert("Title is empty");
@@ -36,7 +38,6 @@ function clearField() {
 }
 
 function deleteRow(obj) {
-
     var index = obj.parentNode.parentNode.rowIndex;
     var table = document.getElementById("myTableData");
     table.deleteRow(index);
