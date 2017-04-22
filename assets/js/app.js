@@ -1,5 +1,3 @@
-import sqlite3
-
 function addRow() {
     if(document.getElementById("name").value == '' || document.getElementById("name").value == undefined) {
       alert("Title is empty");
