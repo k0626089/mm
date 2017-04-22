@@ -11,10 +11,13 @@ function addRow() {
     var myName = document.getElementById("name");
     var age = document.getElementById("age");
     var table = document.getElementById("myTableData");
+    var d = new Date();
+    d.getHours();
+    d.getMinutes();
+    d.getSeconds();
 
     var rowCount = table.rows.length;
     var row = table.insertRow(rowCount);
-
 
     var cell_1 = row.insertCell(0);
     cell_1.innerHTML= '<button type="button" class="btn btn-danger" onClick="Javacsript:deleteRow(this)">DELETE</button>';
@@ -26,7 +29,7 @@ function addRow() {
     cell_3.innerHTML= age.value;
     cell_3.style.height="50px";
     var cell_4 = row.insertCell(3)
-    cell_4.innerHTML= "2017.4.22";
+    cell_4.innerHTML= d;
     cell_4.style.height="50px";
 
     document.getElementById('name').value = "";
