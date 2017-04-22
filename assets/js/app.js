@@ -14,7 +14,7 @@ function addRow() {
     var d  = new Date(new Date().getTime()).toLocaleString();
     var mstring = age.value;
     var b1 = '<a href="http://twitter.com/home?status=';
-    var b2 = '" class="btn btn-info" role="button"><span class="glyphicon glyphicon-comment"></a>&nbsp;&nbsp;&nbsp;<button type="button" class="btn btn-danger" onClick="Javacsript:deleteRow(this)"><span class="glyphicon glyphicon-remove"></button>';
+    var b2 = '" class="btn btn-info" role="button"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;&nbsp;<button type="button" class="btn btn-danger" onClick="Javacsript:deleteRow(this)"><span class="glyphicon glyphicon-remove"></button>';
 
     var rowCount = table.rows.length;
     var row = table.insertRow(rowCount);
