@@ -15,8 +15,8 @@ function addRow() {
     var mstring1 = myName.value;
     var mstring2 = age.value;
     var space = " - "
-    var b1 = '<a href="http://twitter.com/home?status=';
-    var b2 = ' (by MM™ the memo application)" class="btn btn-info" role="button"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;&nbsp;<button type="button" class="btn btn-danger" onClick="Javacsript:deleteRow(this)"><span class="glyphicon glyphicon-remove"></button>';
+    var b1 = '<div align="center"><a href="http://twitter.com/home?status=';
+    var b2 = ' (by MM™ the memo application)" class="btn btn-info" role="button"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;&nbsp;<button type="button" class="btn btn-danger" onClick="Javacsript:deleteRow(this)"><span class="glyphicon glyphicon-remove"></button></div>';
 
     var rowCount = table.rows.length;
     var row = table.insertRow(rowCount);
