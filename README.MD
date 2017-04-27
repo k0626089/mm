@@ -32,7 +32,9 @@ Functions
 
 Demo
 ----
-https://rawgit.com/k0626089/mm/master/index.html (Search dosen't work on demo site for some reason..)
+[Demo Site](https://rawgit.com/k0626089/mm/master/index.html)
+
+(Search function dosen't work on demo site for some reason..)
 
 Who am I?
 ---------
