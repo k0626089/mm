@@ -13,18 +13,18 @@ that lets you manage your memos easly.
 
 Main functions
 --------------
-1. Write and Save memo
+- Write and Save memo
 
 Other functions
 ---------------
-1. Daily Quote(updates every day).
-2. Weather forcast of the current location.
-3. Exact Current time.
-4. Clear memo field.
-5. Check if memo field is empty or not.
-6. Delete specific memo.
-7. Share memo on twitter.
-8. Search memo.
+- Daily Quote(updates every day).
+- Weather forcast of the current location.
+- Exact Current time.
+- Clear memo field.
+- Check if memo field is empty or not.
+- Delete specific memo.
+- Share memo on twitter.
+- Search memo.
 
 Demo
 ----
