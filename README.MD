@@ -23,7 +23,7 @@ Functions
 <img src="http://i68.tinypic.com/23su0dg.png" width="500">
 
 6. Delete specific memo.
-7. Share memo on twitter
+7. Share memo on twitter.
 <img src="http://i67.tinypic.com/120mmud.png" width="500">
 <img src="http://i64.tinypic.com/2ryhs.png" width="500">
 
