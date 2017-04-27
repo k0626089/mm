@@ -2,8 +2,6 @@ MM™
 ====
 the memo application
 
-DEMO - https://rawgit.com/k0626089/mm/master/index.html
-
 What is MM™?
 ------------
 MM™ is a simple memo application built on html5, bootstrap and webSQL
@@ -32,9 +30,9 @@ Functions
 8. Search memo.
 <img src="http://i65.tinypic.com/2414hfp.png" width="500">
 
-How to Launch
--------------
-1. Execute index.html file
+Demo
+----
+https://rawgit.com/k0626089/mm/master/index.html (Search dosen't work on demo site for some reason..)
 
 Who am I?
 ---------
