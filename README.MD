@@ -34,5 +34,5 @@ Who am I?
 ---------
 Student at Hanyang Univ. studying Computer Science.
 
-#### Click on wiki for more informations
+#### Click on [wiki](https://github.com/k0626089/mm/wiki) for more informations
 
