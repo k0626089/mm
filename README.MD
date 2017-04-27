@@ -33,3 +33,6 @@ Demo
 Who am I?
 ---------
 Student at Hanyang Univ. studying Computer Science.
+
+#### Click on wiki for more informations
+
