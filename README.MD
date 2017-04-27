@@ -2,6 +2,8 @@ MM™
 ====
 the memo application
 
+DEMO - https://rawgit.com/k0626089/mm/master/index.html
+
 What is MM™?
 ------------
 MM™ is a simple memo application built on html5, bootstrap and webSQL
