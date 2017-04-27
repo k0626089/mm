@@ -9,8 +9,6 @@ that lets you manage your memos easly.
 
 <img src="http://i65.tinypic.com/2zhl6v7.png" width="500">
 
-#### (Main Screen)
-
 Main functions
 --------------
 - Write and Save memo
