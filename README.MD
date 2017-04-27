@@ -2,6 +2,11 @@ MM™
 ====
 the memo application
 
+What is MM™?
+------------
+MM™ is a simple memo application built on html5, bootstrap and webSQL
+that lets you manage your memos easly.
+
 Functions
 ---------
 1. Daily Quote(updates every day).
@@ -28,3 +33,7 @@ Functions
 How to Launch
 -------------
 1. Execute index.html file
+
+Who am I?
+---------
+Student at Hanyang Univ. studying Computer Science.
