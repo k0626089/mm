@@ -22,7 +22,7 @@ Functions
 <img src="http://i67.tinypic.com/120mmud.png" width="500">
 <img src="http://i64.tinypic.com/2ryhs.png" width="500">
 
-8. Search memo(adding this made delete function unstable).
+8. Search memo.
 <img src="http://i65.tinypic.com/2414hfp.png" width="500">
 
 How to Launch
