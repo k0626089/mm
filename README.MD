@@ -12,8 +12,11 @@ Visit [Wiki](https://github.com/k0626089/mm/wiki) for more detailed informations
 How to run?
 ----------
 - You can visit [Demo Site](https://rawgit.com/k0626089/mm/master/index.html) for easy demonstration.
-- You can also execute "npm start" in the project folder.
-- Or download the release version from [Google Drive](https://drive.google.com/file/d/0B-NZed9Y9C6Lc3dGa2xnNnJpYWM/view?usp=sharing). (only mac versions avalible for now)
+- You can also download the release version from [Google Drive](https://drive.google.com/file/d/0B-NZed9Y9C6Lc3dGa2xnNnJpYWM/view?usp=sharing). (only mac versions avalible for now)
+- Or from the command-line run:
+
+	  npm start
+        
 
 Who am I?
 ---------
