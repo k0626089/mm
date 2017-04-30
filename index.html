@@ -120,7 +120,7 @@
       <div align="center">
 
         <div class="form-group pull-right">
-          <input type="text" class="search form-control" placeholder="Looking for something?">
+          <textarea class="form-control" rows="1" id="myInput" onkeyup="myFunction()" placeholder="Looking for something?" itle="Type in a name"></textarea>
       </div>
 
       <table class="table table-striped results" height="400%">
@@ -138,8 +138,25 @@
         <tbody id="myTableData">
         </tbody>
       </table>
-      <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-      <script src="assets/js/index.js"></script>
+      <script>
+function myFunction() {
+  var input, filter, table, tr, td, i;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTableData");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>
       <div id="carlistholder">
     <ul id="carlist">
     </ul>
